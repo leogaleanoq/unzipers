@@ -1,2 +1,2 @@
 # unzipers
-Reposiory of code to unzip files
+Repository of code to unzip files
