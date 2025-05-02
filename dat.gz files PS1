@@ -1,6 +1,6 @@
 # Define the path to the .gz file and the destination directory
-$gzFilePath = "C:\Temp\Schoeller\TESTFILE.dat.gz"
-$destinationDirectory = "C:\Temp\Schoeller\files"
+$gzFilePath = "C:\Temp\TESTFILE.dat.gz"
+$destinationDirectory = "C:\Temp\files"
 
 # Function to extract a .gz file
 function Extract-GzipFile {
